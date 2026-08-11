@@ -133,8 +133,8 @@ Continue reviewing feature and major version updates manually.
 Revised Infrastructure Roadmap:
 1.	Understand Linux firewall architecture (iptables/nftables). 
 2.	Understand how Docker publishes ports. 
-3.	Use Docker networking intentionally (bind only what you need). 
-4.	Use Tailscale as your remote access boundary. 
+3.	Use Docker networking intentionally (bind only what I need). 
+4.	Use Tailscale as my remote access boundary. 
 5.	If I later deploy a plain Debian or Ubuntu VM without Docker, that's where I'll build a full UFW project from scratch.
 original roadmap:
 1.	✅ SSH Hardening 
