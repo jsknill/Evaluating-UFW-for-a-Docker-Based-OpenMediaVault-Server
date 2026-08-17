@@ -45,7 +45,7 @@ Connect a keyboard and monitor directly to the server, log in locally, and corre
 ________________________________________
 Implementation: 
 Connected to server via
-Ssh jordan@192.168.0.2
+Ssh User x@192.168.x.x
 Refreshed package Metadata
 Verified I have latest packages list via sudo apt update
 Installed UFW via sudo apt install ufw
